@@ -1,4 +1,4 @@
-package com.grube.eric.WebScraper;
+package com.grube.eric.OnTheIssuesScraper;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
